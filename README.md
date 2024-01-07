@@ -12,18 +12,25 @@
 ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
 # 📊 GitHub Stats:
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vivekpoddar10&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Most Used Language">
-<table style="border:0;">
-   <tr>
+
+<table>
+    <tr>
         <td>
-            <img src="https://github-readme-stats.vercel.app/api?username=vivekpoddar10&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats">
+            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vivekpoddar10&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact" alt="GitHub Stats" style="height:225;">
         </td>
         <td>
-            <img src="https://github-readme-streak-stats.herokuapp.com/?user=vivekpoddar10&theme=dark&hide_border=false" alt="GitHub Streak Stats">
+            <img src="https://github-readme-streak-stats.herokuapp.com/?user=vivekpoddar10&theme=dark&hide_border=true" alt="GitHub Stats" style="height:250;">
+        </td>
+    </tr>
+   <tr>
+        <td>
+            <img src="https://github-readme-stats.vercel.app/api?username=vivekpoddar10&theme=dark&hide_border=true&include_all_commits=false&count_private=false" alt="GitHub Streak Stats">
+        </td>
+        <td>
+            <img src="https://github-contributor-stats.vercel.app/api?username=vivekpoddar10&limit=5&theme=dark&hide_border=true&combine_all_yearly_contributions=true" alt=" Contributor stat Stats"  >
         </td>
     </tr>
 </table>
-
 
 
 
