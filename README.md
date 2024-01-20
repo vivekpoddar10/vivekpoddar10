@@ -4,7 +4,7 @@
 ![](https://github-profile-trophy.vercel.app/?username=vivekpoddar10&theme=onedark&no-frame=true&no-bg=false&margin-w=4)<br/>
 
 # 💻 Tech Stack:
-![skills](https://skillicons.dev/icons?i=java,python,javascript,css)
+![skills](https://skillicons.dev/icons?i=html,css,java,python,javascript,react)
 
 # 📊 GitHub Stats:
 
@@ -22,7 +22,7 @@
             <img src="https://github-readme-stats.vercel.app/api?username=vivekpoddar10&theme=dark&hide_border=true&include_all_commits=false&count_private=false&show_icons=true" alt="GitHub Streak Stats">
         </td>
         <td>
-            <img src="https://github-contributor-stats.vercel.app/api?username=vivekpoddar10&limit=5&theme=dark&hide_border=true&combine_all_yearly_contributions=true" alt=" Contributor stat Stats"  >
+            <img src="https://github-contributor-stats.vercel.app/api?username=vivekpoddar10&limit=3&theme=dark&hide_border=true&combine_all_yearly_contributions=true" alt=" Contributor stat Stats"  >
         </td>
     </tr>
 </table>
